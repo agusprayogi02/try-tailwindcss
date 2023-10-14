@@ -13,7 +13,7 @@ h3,
 h4,
 h5,
 h6 {
-    @apply font-primary leading-[120%];
+    @apply font-primary text-black leading-[120%];
 }
 
 .h1 {
